@@ -4,7 +4,7 @@ Playey is a Netherlands and free-to-play project on Scratch, thats open-source a
 
 ## Is my system compatible for Playey?
 
-If your system has a browser, like Google Chrome, Firefox or Opera with a internet connection then your system should be compatible. If not, let me know with a issue.
+If your system has a browser, like [Google Chrome]https://www.google.com/intl/nl_nl/chrome/), Firefox or Opera with a internet connection then your system should be compatible. If not, let me know with a issue.
 
 ## I want to publish my game to Playey, how can i do that?
 
