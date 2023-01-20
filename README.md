@@ -1,4 +1,4 @@
-# Playey on Scratch
+# Playey on Scratch (this game is in beta)
 
 Playey is a Netherlands and free-to-play project on Scratch, thats open-source and no-profit where you can play games and publish them. Its web-based, that means that you *dont need to download stuff*
 
