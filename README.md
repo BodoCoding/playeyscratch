@@ -8,4 +8,4 @@ If your system has a browser, like Google Chrome, Firefox or Opera with a intern
 
 ## I want to publish my game to Playey, how can i do that?
 
-
+Comment in the [Studio from Playey](https://scratch.mit.edu/studios/32732320) your game name. Then we will approve your game.
